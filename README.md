@@ -1,20 +1,39 @@
-# Hi, I'm Christophe 👋
+<h1 align="center">Hi, I'm Christophe 👋</h1>
 
-Backend developer trained at 42, with strong foundations in systems programming, networking, and low-level development.
+<p align="center">
+  <b>Backend Developer | 42 Student | Cybersecurity Enthusiast</b>
+</p>
 
-🚀 Completed the Common Core in 10 months  
-🌍 Multilingual & international background  
-🔐 Interested in cybersecurity and backend systems  
-💻 Open to remote opportunities  
+<p align="center">
+  🚀 Completed Common Core in 10 months &nbsp;|&nbsp; 🌍 Multilingual & International &nbsp;|&nbsp; 🔐 Cybersecurity
+</p>
+
+---
+
+## 🎓 42 School
+
+<p>
+  Trained at <b>42</b>, a highly selective, peer-to-peer software engineering program focused on project-based learning and real-world problem solving.<br><br>
+  No teachers, no traditional classes — only hands-on projects, collaboration, and autonomous learning.<br><br>
+  ✔ Intensive training in C/C++, systems programming, and networking<br>
+  ✔ Strong emphasis on problem-solving, debugging, and adaptability<br>
+  ✔ Completed the Common Core in 10 months
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C, C++, Python, JavaScript, TypeScript  
-- **Web:** React, APIs, authentication  
-- **Systems:** Linux, memory management, TCP/IP, sockets  
-- **Tools:** Git, Docker  
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
@@ -43,13 +62,23 @@ Hands-on projects covering vulnerabilities, networking, and security basics
 
 ## 📫 Contact
 
-- Email: chrishanin@edpnet.be  
-- LinkedIn: www.linkedin.com/in/christophe-hanin  
+<p>
+  📧 chrishanin@edpnet.be <br>
+  💼 https://www.linkedin.com/in/christophe-hanin
+</p>
 
 ---
 
 ## ⚡ About me
 
-- Fast learner and highly adaptable  
-- Comfortable working in international environments  
-- Strong problem-solving mindset  
+- ⚡ Fast learner and highly adaptable  
+- 🌍 Comfortable in international environments  
+- 🧠 Strong problem-solving mindset  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisHanin&layout=compact&theme=tokyonight" />
+</p>

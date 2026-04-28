@@ -63,7 +63,7 @@ Hands-on projects covering vulnerabilities, networking, and security basics
 ## 📫 Contact
 
 <p>
-  📧 chrishanin@edpnet.be <br>
+  📧 haninchristophe501@gmail.com <br>
   💼 https://www.linkedin.com/in/christophe-hanin
 </p>
 
